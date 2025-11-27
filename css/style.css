@@ -19,7 +19,7 @@ body::before {
     content: "";
     position: fixed;
     inset: 0;
-    background: #210063c4 url(/assets/background.jpg);
+    background: #210063c4 url(Projeto02/assets/background.jpg);
     background-blend-mode: soft-light;
     backdrop-filter: blur(1.5px);
     background-size: cover;
@@ -55,4 +55,5 @@ body::before {
     align-items: center;
     text-align: center;
     padding: 20px;
+
 }
